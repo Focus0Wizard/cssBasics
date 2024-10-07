@@ -27,3 +27,15 @@ div{
     height: 150px;
     background-color: hsl(220, 100%, 20%);
 }
+
+a[title]{
+    color: #ffc20e;
+}
+
+input:disabled{
+    border: 2px solid orange;
+}
+
+button:hover{
+    background-color: green;
+}
